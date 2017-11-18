@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diags major="2" minor="0">
+
+<diag id="1">
+	<type>233</type>
+	<message>
+		<timestamp>1680906924</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8704</threadid>
+			<stackstamp>1680929826</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x71cd6</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="2">
+	<type>233</type>
+	<message>
+		<timestamp>3781212473</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>5468</threadid>
+			<stackstamp>3781238828</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3a470</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="3">
+	<type>233</type>
+	<message>
+		<timestamp>4190013940</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8412</threadid>
+			<stackstamp>4190026608</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Windows\SysWOW64\KernelBase.dll</mod>
+			<rva>0x13f9d0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="4">
+	<type>233</type>
+	<message>
+		<timestamp>4204954567</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>6316</threadid>
+			<stackstamp>4204964887</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3a470</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="5">
+	<type>231</type>
+	<message>
+		<timestamp>10744475822</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8704</threadid>
+			<stackstamp>10744489154</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="6">
+	<type>231</type>
+	<message>
+		<timestamp>10747924586</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>5468</threadid>
+			<stackstamp>10747935678</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="7">
+	<type>231</type>
+	<message>
+		<timestamp>10748192178</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>6316</threadid>
+			<stackstamp>10748203210</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="8">
+	<type>231</type>
+	<message>
+		<timestamp>12632141313</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8412</threadid>
+			<stackstamp>12632152551</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="9">
+	<type>1012</type>
+	<message>
+		<timestamp>12659464772</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>128</size>
+			<threadid>8704</threadid>
+			<stackstamp>9978518736</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ucrtbase.dll</mod>
+			<rva>0x2cac9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ucrtbase.dll</mod>
+			<rva>0x2c989</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ucrtbase.dll</mod>
+			<rva>0x26fa8</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Release\MyIntegral.exe</mod>
+			<rva>0x4040</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Release\MyIntegral.exe</mod>
+			<rva>0x4064</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Release\MyIntegral.exe</mod>
+			<rva>0x39c2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ucrtbase.dll</mod>
+			<rva>0x28360</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Release\MyIntegral.exe</mod>
+			<rva>0x3a94</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\kernel32.dll</mod>
+			<rva>0x18742</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x6582b</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x657f8</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+</diags>

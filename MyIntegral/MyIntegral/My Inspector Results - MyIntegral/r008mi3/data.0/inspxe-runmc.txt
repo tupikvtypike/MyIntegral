@@ -1,0 +1,69 @@
+
+=== Start: [2017/11/18 12:47:42] === 
+Analysis started...
+Result file: C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\MyIntegral\My Inspector Results - MyIntegral\r008mi3\r008mi3.inspxe 
+Analysis started for C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe (pid = 10576) 
+Loaded module: C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe, address range [0xf70000-0xf82fff] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\Inspector 2018\bin32\dnclrprof.dll, address range [0xf4b0000-0xf4f4fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\cryptbase.dll, address range [0x73dc0000-0x73dc9fff] 
+Loaded module: C:\Windows\SysWOW64\sspicli.dll, address range [0x73dd0000-0x73deffff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\KernelBase.dll, address range [0x73df0000-0x73fb1fff] 
+Loaded module: C:\Windows\SysWOW64\gdi32.dll, address range [0x74020000-0x74040fff] 
+Loaded module: C:\Windows\SysWOW64\imm32.dll, address range [0x740d0000-0x740f4fff] 
+Loaded module: C:\Windows\SysWOW64\sechost.dll, address range [0x74270000-0x742b0fff] 
+Loaded module: C:\Windows\SysWOW64\msvcp_win.dll, address range [0x75610000-0x75688fff] 
+Loaded module: C:\Windows\SysWOW64\win32u.dll, address range [0x75690000-0x756a5fff] 
+Loaded module: C:\Windows\SysWOW64\ole32.dll, address range [0x756b0000-0x757a2fff] 
+Loaded module: C:\Windows\SysWOW64\rpcrt4.dll, address range [0x76250000-0x7630ffff] 
+Loaded module: C:\Windows\SysWOW64\kernel32.dll, address range [0x76310000-0x763dffff] 
+Loaded module: C:\Windows\SysWOW64\advapi32.dll, address range [0x76730000-0x767a6fff] 
+Loaded module: C:\Windows\SysWOW64\bcryptprimitives.dll, address range [0x76950000-0x769a6fff] 
+Loaded module: C:\Windows\SysWOW64\ucrtbase.dll, address range [0x76aa0000-0x76bb7fff] 
+Loaded module: C:\Windows\SysWOW64\msvcrt.dll, address range [0x76c10000-0x76cccfff] 
+Loaded module: C:\Windows\SysWOW64\gdi32full.dll, address range [0x76d40000-0x76e97fff] 
+Loaded module: C:\Windows\SysWOW64\combase.dll, address range [0x76ef0000-0x77127fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\user32.dll, address range [0x77150000-0x7728bfff] 
+Loaded module: C:\Windows\SysWOW64\ntdll.dll, address range [0x77300000-0x7748dfff] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\libmmd.dll, address range [0x70a0000-0x75dbfff] 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\libmmd.dll 
+Loaded module: C:\Windows\SysWOW64\vcruntime140d.dll, address range [0x68ef0000-0x68f09fff] 
+Loaded module: C:\Windows\SysWOW64\ucrtbased.dll, address range [0xfe10000-0xff80fff] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll, address range [0x70e0000-0x7127fff], minimal analysis 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\libmmd.dll, address range [0xf8b0000-0xfdebfff] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll, address range [0x7220000-0x7267fff], minimal analysis 
+Loaded module: C:\Program Files (x86)\IntelSWTools\Inspector 2018\bin32\runtime\libittnotify.dll, address range [0x588c0000-0x588ecfff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\kernel.appcore.dll, address range [0x74060000-0x7406dfff] 
+Process C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe exited with code 0. Leak analysis starting. Please wait... 
+Unloaded module: C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\Inspector 2018\bin32\dnclrprof.dll 
+Unloaded module: C:\Windows\SysWOW64\cryptbase.dll 
+Unloaded module: C:\Windows\SysWOW64\sspicli.dll 
+Unloaded module: C:\Windows\SysWOW64\KernelBase.dll 
+Unloaded module: C:\Windows\SysWOW64\gdi32.dll 
+Unloaded module: C:\Windows\SysWOW64\imm32.dll 
+Unloaded module: C:\Windows\SysWOW64\sechost.dll 
+Unloaded module: C:\Windows\SysWOW64\msvcp_win.dll 
+Unloaded module: C:\Windows\SysWOW64\win32u.dll 
+Unloaded module: C:\Windows\SysWOW64\ole32.dll 
+Unloaded module: C:\Windows\SysWOW64\rpcrt4.dll 
+Unloaded module: C:\Windows\SysWOW64\kernel32.dll 
+Unloaded module: C:\Windows\SysWOW64\advapi32.dll 
+Unloaded module: C:\Windows\SysWOW64\bcryptprimitives.dll 
+Unloaded module: C:\Windows\SysWOW64\ucrtbase.dll 
+Unloaded module: C:\Windows\SysWOW64\msvcrt.dll 
+Unloaded module: C:\Windows\SysWOW64\gdi32full.dll 
+Unloaded module: C:\Windows\SysWOW64\combase.dll 
+Unloaded module: C:\Windows\SysWOW64\user32.dll 
+Unloaded module: C:\Windows\SysWOW64\ntdll.dll 
+Unloaded module: C:\Windows\SysWOW64\vcruntime140d.dll 
+Unloaded module: C:\Windows\SysWOW64\ucrtbased.dll 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\libmmd.dll 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\Inspector 2018\bin32\runtime\libittnotify.dll 
+Unloaded module: C:\Windows\SysWOW64\kernel.appcore.dll 
+Completed analysis for C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe 
+Application exit code: 0 
+Result file: C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\MyIntegral\My Inspector Results - MyIntegral\r008mi3\r008mi3.inspxe 
+Analysis completed
+=== End: [2017/11/18 12:47:55] === 

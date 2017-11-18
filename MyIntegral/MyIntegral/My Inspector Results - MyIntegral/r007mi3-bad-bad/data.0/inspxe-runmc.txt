@@ -1,0 +1,4 @@
+
+=== Start: [2017/11/18 12:47:29] === 
+Analysis started...
+Result file: C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\MyIntegral\My Inspector Results - MyIntegral\r007mi3\r007mi3.inspxe 

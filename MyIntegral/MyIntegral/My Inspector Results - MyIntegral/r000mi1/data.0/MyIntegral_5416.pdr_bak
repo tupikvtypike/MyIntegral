@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diags major="2" minor="0">
+
+<diag id="1">
+	<type>233</type>
+	<message>
+		<timestamp>747893950</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>12976</threadid>
+			<stackstamp>747921822</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x105a</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="2">
+	<type>233</type>
+	<message>
+		<timestamp>10099003750</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>12692</threadid>
+			<stackstamp>10099033468</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll</mod>
+			<rva>0x16cc4</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="3">
+	<type>233</type>
+	<message>
+		<timestamp>10100319207</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>7688</threadid>
+			<stackstamp>10100331201</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll</mod>
+			<rva>0x16cc4</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="4">
+	<type>233</type>
+	<message>
+		<timestamp>10101146526</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>2640</threadid>
+			<stackstamp>10101158730</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll</mod>
+			<rva>0x16cc4</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="5">
+	<type>1011</type>
+	<message>
+		<timestamp>10141900566</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>12692</threadid>
+			<stackstamp>10141926854</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x4549</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x1b65</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x2613</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+		<mess_addr>0x00bd9358</mess_addr>
+		<defined>
+			<thrname>Cilk Worker</thrname>
+			<size>8</size>
+			<threadid>2640</threadid>
+			<stackstamp>10101827692</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x44ec</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x1b14</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x259e</rva>
+			</loc>
+			<loc>
+			<mod>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll</mod>
+			<rva>0xa328</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x288a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x1f83</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x221b</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe</mod>
+			<rva>0x2e72</rva>
+			</loc>
+			<loc>
+			<mod>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll</mod>
+			<rva>0x24c0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="6">
+	<type>231</type>
+	<message>
+		<timestamp>50107446786</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>2640</threadid>
+			<stackstamp>50107459906</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="7">
+	<type>231</type>
+	<message>
+		<timestamp>50107755034</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>7688</threadid>
+			<stackstamp>50107767014</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="8">
+	<type>231</type>
+	<message>
+		<timestamp>50108208674</timestamp>
+		<thread>
+			<thrname>Cilk Worker</thrname>
+			<threadid>12692</threadid>
+			<stackstamp>50108220554</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="9">
+	<type>231</type>
+	<message>
+		<timestamp>50108503346</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>12976</threadid>
+			<stackstamp>50108514942</stackstamp>
+		</thread>
+	</message>
+</diag>
+</diags>

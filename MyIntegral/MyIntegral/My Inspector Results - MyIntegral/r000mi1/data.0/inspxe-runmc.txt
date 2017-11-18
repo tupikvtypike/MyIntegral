@@ -1,0 +1,44 @@
+
+=== Start: [2017/11/16 00:03:59] === 
+Analysis started...
+Result file: C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\MyIntegral\My Inspector Results - MyIntegral\r000mi1\r000mi1.inspxe 
+Analysis started for C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe (pid = 5416) 
+Loaded module: C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe, address range [0x300000-0x312fff] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\Inspector 2018\bin32\dnclrprof.dll, address range [0xfb70000-0xfbb4fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\cryptbase.dll, address range [0x74260000-0x74269fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\sspicli.dll, address range [0x74270000-0x7428ffff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\win32u.dll, address range [0x74290000-0x742a5fff] 
+Loaded module: C:\Windows\SysWOW64\combase.dll, address range [0x742b0000-0x744e7fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\rpcrt4.dll, address range [0x744f0000-0x745affff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\ole32.dll, address range [0x745b0000-0x746a2fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\user32.dll, address range [0x747a0000-0x748dbfff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\ucrtbase.dll, address range [0x76280000-0x76397fff] 
+Loaded module: C:\Windows\SysWOW64\advapi32.dll, address range [0x769d0000-0x76a46fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\sechost.dll, address range [0x76a50000-0x76a90fff] 
+Loaded module: C:\Windows\SysWOW64\gdi32.dll, address range [0x76bb0000-0x76bd0fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\gdi32full.dll, address range [0x76c80000-0x76dd7fff] 
+Loaded module: C:\Windows\SysWOW64\kernel32.dll, address range [0x77140000-0x7720ffff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\imm32.dll, address range [0x77210000-0x77234fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\msvcp_win.dll, address range [0x772c0000-0x77338fff] 
+Loaded module: C:\Windows\SysWOW64\KernelBase.dll, address range [0x77340000-0x77501fff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\bcryptprimitives.dll, address range [0x77510000-0x77566fff] 
+Loaded module: C:\Windows\SysWOW64\msvcrt.dll, address range [0x77590000-0x7764cfff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\ntdll.dll, address range [0x777a0000-0x7792dfff], minimal analysis 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\cilkrts20.dll, address range [0xf330000-0xf377fff], minimal analysis 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\libmmd.dll, address range [0x6cd0000-0x720bfff] 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\libmmd.dll 
+Loaded module: C:\Windows\SysWOW64\vcruntime140d.dll, address range [0xf0c0000-0xf0d9fff] 
+Loaded module: C:\Windows\SysWOW64\ucrtbased.dll, address range [0x6d00000-0x6e70fff] 
+Unloaded module: C:\Windows\SysWOW64\ucrtbased.dll 
+Loaded module: C:\Windows\SysWOW64\ucrtbased.dll, address range [0xfc20000-0xfd90fff] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2018.0.124\windows\redist\ia32_win\compiler\libmmd.dll, address range [0xf5d0000-0xfb0bfff] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\Inspector 2018\bin32\runtime\libittnotify.dll, address range [0x73c0000-0x73ecfff], minimal analysis 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\Inspector 2018\bin32\runtime\libittnotify.dll 
+Loaded module: C:\Program Files (x86)\IntelSWTools\Inspector 2018\bin32\runtime\libittnotify.dll, address range [0x73c0000-0x73ecfff], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\kernel.appcore.dll, address range [0x76fc0000-0x76fcdfff] 
+Process C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe exited with code 0. Leak analysis starting. Please wait... 
+Completed analysis for C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\Debug\MyIntegral.exe 
+Application exit code: 0 
+Result file: C:\Users\mathp\Source\Repos\MyIntegral\MyIntegral\MyIntegral\My Inspector Results - MyIntegral\r000mi1\r000mi1.inspxe 
+Analysis completed
+=== End: [2017/11/16 00:04:20] === 
